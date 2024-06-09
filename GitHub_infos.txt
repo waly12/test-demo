@@ -1,0 +1,11 @@
+$ mkdir Projet-GitHub
+$ cd Projet-GitHub
+$ git init
+$ git status
+$ git add demo.txt
+$ git commit -m "first commit"
+
+to link with GitHub : 
+$ git config --global user.username waly12
+$ git push origin master
+
